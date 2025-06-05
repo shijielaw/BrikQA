@@ -1,1 +1,1 @@
-# brikqa
+# BriKQA
