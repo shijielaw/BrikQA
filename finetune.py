@@ -25,7 +25,7 @@ def train(args):
 
     if int(os.environ.get("LOCAL_RANK", 0)) == 0:
         print(
-            f"Training Qwen2-LoRA model with params:\n"
+            f"Training LoRA model with params:\n"
             f"base_model: {args.llm_path}\n"
             f"train_data: {args.train_data}\n"
             f"lora_dir: {args.lora_dir}\n"
@@ -174,12 +174,12 @@ def train(args):
             fp16=False,
             logging_steps=10,
             optim="adamw_torch",  # Qwen2:adamw_hf, Qwen3:adamw_torch
-            save_strategy="no",
-            save_steps=0,
-            save_total_limit=0,
-            eval_strategy="steps" if args.val_set_size > 0 else "no",
+            save_strategy="epoch",
+            save_steps=0.1,
+            save_total_limit=2,
+            eval_strategy="epoch" if args.val_set_size > 0 else "no",
             save_safetensors=False,
-            eval_steps=None,
+            eval_steps=0.1,
             output_dir=args.lora_dir,
             load_best_model_at_end=True if args.val_set_size > 0 else False,
             ddp_find_unused_parameters=False if ddp else None,

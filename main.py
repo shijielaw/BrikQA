@@ -51,7 +51,7 @@ def build_arg():
     parser.add_argument('--num_epochs', type=int, help='number of training epochs')
     parser.add_argument('--batch_size', type=int, help='batch size for training')
     parser.add_argument('--micro_batch_size', type=int, help='micro batch size for training', default=2)
-    parser.add_argument('--val_set_size', type=float, help='validation set size', default=0)
+    parser.add_argument('--val_set_size', type=float, help='validation set size', default=1)
     parser.add_argument('--learning_rate', type=float, help='learning rate for training', default=2e-5)
     parser.add_argument('--cutoff_len', type=float, help='cutoff length for training', default=512)
 
