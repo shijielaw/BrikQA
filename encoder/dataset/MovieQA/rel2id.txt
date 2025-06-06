@@ -1,0 +1,7 @@
+0	act in
+1	direct
+2	has genre
+3	has tags
+4	in language
+5	release year
+6	write

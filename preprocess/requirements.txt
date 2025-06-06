@@ -1,0 +1,5 @@
+langchain==0.3.25
+langchain_openai==0.3.19
+modelscope==1.26.0
+numpy==1.23.1
+sentence_transformers==3.2.1

@@ -1,0 +1,7 @@
+datasets==3.6.0
+peft==0.15.2
+torch==2.7.0
+tqdm==4.67.1
+transformers==4.51.3
+wandb==0.19.11
+modelscope==1.26.0

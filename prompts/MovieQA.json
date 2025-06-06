@@ -1,0 +1,6 @@
+{
+    "description": "Prompt Template for MovieQA.",
+    "prompt_input": "If you were a Q&A expert, please directly answer the following question based on background without any other texts.\n#Question: {question}\n#Background: {background}\n#Answer: \n",
+    "prompt_no_input": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n# Instruction:\n{instruction}\n\n### Response:\n",
+    "response_split": "#Answer:"
+}

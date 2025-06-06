@@ -1,0 +1,3804 @@
+[
+  {
+    "id": 0,
+    "question": "what movie did Patty Dann write the story for?",
+    "answer": "Mermaids",
+    "topic_entities": "Patty Dann",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Patty Dann",
+        "write",
+        "Mermaids"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2059,
+        6,
+        2060
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 1,
+    "question": "what did Andrew Currie direct?",
+    "answer": "Fido",
+    "topic_entities": "Andrew Currie",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Andrew Currie",
+        "direct",
+        "Fido"
+      ],
+      [
+        "Andrew Currie",
+        "direct",
+        "Barricade"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        702,
+        1,
+        703
+      ],
+      [
+        702,
+        1,
+        704
+      ]
+    ],
+    "retrieved_triples_count": 2
+  },
+  {
+    "id": 2,
+    "question": "which words describe movie Fled?",
+    "answer": "action",
+    "topic_entities": "Fled",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Fled",
+        "has tags",
+        "action"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1319,
+        3,
+        1320
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 3,
+    "question": "Yasuko Matsuyuki appears in which movies?",
+    "answer": "Vexille",
+    "topic_entities": "Yasuko Matsuyuki",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Yasuko Matsuyuki",
+        "act in",
+        "Vexille"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        332,
+        0,
+        333
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 4,
+    "question": "what was the release year of Scum?",
+    "answer": "1979",
+    "topic_entities": "Scum",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Scum",
+        "release year",
+        "1979"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1739,
+        5,
+        1406
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 5,
+    "question": "what movies was Jason Schafer the writer of?",
+    "answer": "Trick",
+    "topic_entities": "Jason Schafer",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Jason Schafer",
+        "write",
+        "Trick"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2061,
+        6,
+        871
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 6,
+    "question": "what was the release date of the film Leadbelly?",
+    "answer": "1976",
+    "topic_entities": "Leadbelly",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Leadbelly",
+        "release year",
+        "1976"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        787,
+        5,
+        1759
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 7,
+    "question": "what films did Lorna Maitland star in?",
+    "answer": "Lorna",
+    "topic_entities": "Lorna Maitland",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Lorna Maitland",
+        "act in",
+        "Lorna"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        324,
+        0,
+        325
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 8,
+    "question": "what year was Solo released?",
+    "answer": "2013",
+    "topic_entities": "Solo",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Solo",
+        "release year",
+        "2013"
+      ],
+      [
+        "Solo",
+        "release year",
+        "1996"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1561,
+        5,
+        1433
+      ],
+      [
+        1561,
+        5,
+        1488
+      ]
+    ],
+    "retrieved_triples_count": 2
+  },
+  {
+    "id": 9,
+    "question": "what was the release year of the film Scoop?",
+    "answer": "2006",
+    "topic_entities": "Scoop",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Scoop",
+        "release year",
+        "2006"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1744,
+        5,
+        1378
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 10,
+    "question": "what is the genre for Twins?",
+    "answer": "Comedy",
+    "topic_entities": "Twins",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Twins",
+        "has genre",
+        "Comedy"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1009,
+        2,
+        806
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 11,
+    "question": "which movies was Philippe Lacheau the writer of?",
+    "answer": "Babysitting",
+    "topic_entities": "Philippe Lacheau",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Philippe Lacheau",
+        "write",
+        "Babysitting"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2081,
+        6,
+        100
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 12,
+    "question": "which movie did Tina Pine write?",
+    "answer": "Claudine",
+    "topic_entities": "Tina Pine",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Tina Pine",
+        "write",
+        "Claudine"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2070,
+        6,
+        2071
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 13,
+    "question": "when was Konga released?",
+    "answer": "1961",
+    "topic_entities": "Konga",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Konga",
+        "release year",
+        "1961"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        699,
+        5,
+        1500
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 14,
+    "question": "what was the genre of the movie Crush?",
+    "answer": "Drama",
+    "topic_entities": "Crush",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Crush",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1018,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 15,
+    "question": "what is the primary language in Aamir?",
+    "answer": "Hindi",
+    "topic_entities": "Aamir",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Aamir",
+        "in language",
+        "Hindi"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1180,
+        4,
+        1145
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 16,
+    "question": "what does Patrick Casey act in?",
+    "answer": "Transylmania",
+    "topic_entities": "Patrick Casey",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Patrick Casey",
+        "act in",
+        "Transylmania"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        292,
+        0,
+        293
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 17,
+    "question": "which films did Zev Berman direct?",
+    "answer": "Borderland",
+    "topic_entities": "Zev Berman",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Zev Berman",
+        "direct",
+        "Borderland"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        709,
+        1,
+        710
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 18,
+    "question": "what is a film written by Benito Zambrano?",
+    "answer": "Solas",
+    "topic_entities": "Benito Zambrano",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Benito Zambrano",
+        "write",
+        "Solas"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2055,
+        6,
+        2056
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 19,
+    "question": "describe Underworld?",
+    "answer": "josef von sternberg",
+    "topic_entities": "Underworld",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Underworld",
+        "has tags",
+        "josef von sternberg"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1192,
+        3,
+        1325
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 20,
+    "question": "what was the release date of Candy?",
+    "answer": "1968",
+    "topic_entities": "Candy",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Candy",
+        "release year",
+        "1968"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1747,
+        5,
+        1472
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 21,
+    "question": "which movie was Kyle Schickner the director for?",
+    "answer": "Steam",
+    "topic_entities": "Kyle Schickner",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Kyle Schickner",
+        "direct",
+        "Steam"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        692,
+        1,
+        693
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 22,
+    "question": "what genre is Fanboys in?",
+    "answer": "Comedy",
+    "topic_entities": "Fanboys",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Fanboys",
+        "has genre",
+        "Comedy"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1020,
+        2,
+        806
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 23,
+    "question": "what is the genre for Ballast?",
+    "answer": "Drama",
+    "topic_entities": "Ballast",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Ballast",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1028,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 24,
+    "question": "what films was Roberto Fontanarrosa a writer on?",
+    "answer": "Boogie",
+    "topic_entities": "Roberto Fontanarrosa",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Roberto Fontanarrosa",
+        "write",
+        "Boogie"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2057,
+        6,
+        2058
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 25,
+    "question": "what is the genre for the film Hypocrites?",
+    "answer": "Drama",
+    "topic_entities": "Hypocrites",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Hypocrites",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        695,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 26,
+    "question": "what is the genre for the movie Onegin?",
+    "answer": "Drama",
+    "topic_entities": "Onegin",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Onegin",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1027,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 27,
+    "question": "when was Hunger released?",
+    "answer": "2008",
+    "topic_entities": "Hunger",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Hunger",
+        "release year",
+        "2008"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        748,
+        5,
+        1436
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 28,
+    "question": "what sort of movie is Creep?",
+    "answer": "Horror",
+    "topic_entities": "Creep",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Creep",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1004,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 29,
+    "question": "what is the primary language in the film Witchhammer?",
+    "answer": "Czech",
+    "topic_entities": "Witchhammer",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Witchhammer",
+        "in language",
+        "Czech"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1175,
+        4,
+        1136
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 30,
+    "question": "which films did Robert Greenwald direct?",
+    "answer": "Xanadu",
+    "topic_entities": "Robert Greenwald",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Robert Greenwald",
+        "direct",
+        "Xanadu"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        711,
+        1,
+        712
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 31,
+    "question": "which movie was Christopher Coppola the director for?",
+    "answer": "Deadfall",
+    "topic_entities": "Christopher Coppola",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Christopher Coppola",
+        "direct",
+        "Deadfall"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        680,
+        1,
+        681
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 32,
+    "question": "what was the release year of the movie Election?",
+    "answer": "2005",
+    "topic_entities": "Election",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Election",
+        "release year",
+        "1999"
+      ],
+      [
+        "Election",
+        "release year",
+        "2005"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1706,
+        5,
+        1444
+      ],
+      [
+        1706,
+        5,
+        1429
+      ]
+    ],
+    "retrieved_triples_count": 2
+  },
+  {
+    "id": 33,
+    "question": "what was the release date of the movie Focus?",
+    "answer": "2001",
+    "topic_entities": "Focus",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Focus",
+        "release year",
+        "2001"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1727,
+        5,
+        1402
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 34,
+    "question": "what language is Cyclo in?",
+    "answer": "Vietnamese",
+    "topic_entities": "Cyclo",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Cyclo",
+        "in language",
+        "Vietnamese"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1176,
+        4,
+        1177
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 35,
+    "question": "what is the main language in Returner?",
+    "answer": "Japanese",
+    "topic_entities": "Returner",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Returner",
+        "in language",
+        "Japanese"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        746,
+        4,
+        1098
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 36,
+    "question": "what year was Precious released?",
+    "answer": "2009",
+    "topic_entities": "Precious",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Precious",
+        "release year",
+        "2009"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1750,
+        5,
+        1388
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 37,
+    "question": "what does Lilyan Tashman appear in?",
+    "answer": "Millie",
+    "topic_entities": "Lilyan Tashman",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Lilyan Tashman",
+        "act in",
+        "Millie"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        306,
+        0,
+        307
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 38,
+    "question": "what sort of film is Dare?",
+    "answer": "Drama",
+    "topic_entities": "Dare",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Dare",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1032,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 39,
+    "question": "what movies was Benno Vigny the writer of?",
+    "answer": "Morocco",
+    "topic_entities": "Benno Vigny",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Benno Vigny",
+        "write",
+        "Morocco"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2066,
+        6,
+        2067
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 40,
+    "question": "which movie was Anthony Silverston the director for?",
+    "answer": "Khumba",
+    "topic_entities": "Anthony Silverston",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Anthony Silverston",
+        "direct",
+        "Khumba"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        688,
+        1,
+        689
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 41,
+    "question": "which words describe film Ladybugs?",
+    "answer": "sidney j. furie",
+    "topic_entities": "Ladybugs",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Ladybugs",
+        "has tags",
+        "sidney j. furie"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1328,
+        3,
+        1329
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 42,
+    "question": "which movie was Sam Pillsbury the director for?",
+    "answer": "Zandalee",
+    "topic_entities": "Sam Pillsbury",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Sam Pillsbury",
+        "direct",
+        "Zandalee"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        682,
+        1,
+        683
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 43,
+    "question": "what is the genre for the movie Fun?",
+    "answer": "Drama",
+    "topic_entities": "Fun",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Fun",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1024,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 44,
+    "question": "what films did Juan Pablo Rebella direct?",
+    "answer": "Whisky",
+    "topic_entities": "Juan Pablo Rebella",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Juan Pablo Rebella",
+        "direct",
+        "Whisky"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        705,
+        1,
+        706
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 45,
+    "question": "Wer, when was it released?",
+    "answer": "2013",
+    "topic_entities": "Wer",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Wer",
+        "release year",
+        "2013"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1723,
+        5,
+        1433
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 46,
+    "question": "what kind of movie is Madeinusa?",
+    "answer": "Drama",
+    "topic_entities": "Madeinusa",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Madeinusa",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1007,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 47,
+    "question": "what was the genre of the movie Aakrosh?",
+    "answer": "Action",
+    "topic_entities": "Aakrosh",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Aakrosh",
+        "has genre",
+        "Action"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1023,
+        2,
+        796
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 48,
+    "question": "what is a movie written by Owen Frawley Kildare?",
+    "answer": "Regeneration",
+    "topic_entities": "Owen Frawley Kildare",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Owen Frawley Kildare",
+        "write",
+        "Regeneration"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2072,
+        6,
+        2073
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 49,
+    "question": "what year was the film Borgman released?",
+    "answer": "2013",
+    "topic_entities": "Borgman",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Borgman",
+        "release year",
+        "2013"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1754,
+        5,
+        1433
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 50,
+    "question": "what was the release date of the movie Zift?",
+    "answer": "2008",
+    "topic_entities": "Zift",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Zift",
+        "release year",
+        "2008"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1752,
+        5,
+        1436
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 51,
+    "question": "which topics is movie Mephisto about?",
+    "answer": "istván szabó",
+    "topic_entities": "Mephisto",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Mephisto",
+        "has tags",
+        "istván szabó"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1332,
+        3,
+        1333
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 52,
+    "question": "what year was the movie Cellular released?",
+    "answer": "2004",
+    "topic_entities": "Cellular",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Cellular",
+        "release year",
+        "2004"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1731,
+        5,
+        1421
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 53,
+    "question": "what is a film written by Robin Mukherjee?",
+    "answer": "Lore",
+    "topic_entities": "Robin Mukherjee",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Robin Mukherjee",
+        "write",
+        "Lore"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2078,
+        6,
+        655
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 54,
+    "question": "what was the release year of the movie Frank?",
+    "answer": "2014",
+    "topic_entities": "Frank",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Frank",
+        "release year",
+        "2014"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1753,
+        5,
+        1396
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 55,
+    "question": "which movie did Michael Holroyd write?",
+    "answer": "Carrington",
+    "topic_entities": "Michael Holroyd",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Michael Holroyd",
+        "write",
+        "Carrington"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2079,
+        6,
+        2080
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 56,
+    "question": "what year was the film Warlock released?",
+    "answer": "1989",
+    "topic_entities": "Warlock",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Warlock",
+        "release year",
+        "1989"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1748,
+        5,
+        1371
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 57,
+    "question": "Jason Lindsey was the director on which movies?",
+    "answer": "Tapped",
+    "topic_entities": "Jason Lindsey",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Jason Lindsey",
+        "direct",
+        "Tapped"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        690,
+        1,
+        691
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 58,
+    "question": "which films did Evan Glodell direct?",
+    "answer": "Bellflower",
+    "topic_entities": "Evan Glodell",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Evan Glodell",
+        "direct",
+        "Bellflower"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        205,
+        1,
+        206
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 59,
+    "question": "Kevin Altieri directed which films?",
+    "answer": "Gen¹³",
+    "topic_entities": "Kevin Altieri",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Kevin Altieri",
+        "direct",
+        "Gen¹³"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        700,
+        1,
+        701
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 60,
+    "question": "Annabelle, when was it released?",
+    "answer": "2014",
+    "topic_entities": "Annabelle",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Annabelle",
+        "release year",
+        "2014"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        814,
+        5,
+        1396
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 61,
+    "question": "what films did Victoire Thivisol star in?",
+    "answer": "Ponette",
+    "topic_entities": "Victoire Thivisol",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Victoire Thivisol",
+        "act in",
+        "Ponette"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        304,
+        0,
+        305
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 62,
+    "question": "what topics is Turbo about?",
+    "answer": "dreamworks",
+    "topic_entities": "Turbo",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Turbo",
+        "has tags",
+        "dreamworks"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1323,
+        3,
+        1324
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 63,
+    "question": "when was the movie Akira released?",
+    "answer": "1988",
+    "topic_entities": "Akira",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Akira",
+        "release year",
+        "1988"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1746,
+        5,
+        1419
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 64,
+    "question": "what films does Ken Marshall appear in?",
+    "answer": "Krull",
+    "topic_entities": "Ken Marshall",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Ken Marshall",
+        "act in",
+        "Krull"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        330,
+        0,
+        331
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 65,
+    "question": "what is the genre for the film Becket?",
+    "answer": "Drama",
+    "topic_entities": "Becket",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Becket",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1017,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 66,
+    "question": "what was the release date of Pandaemonium?",
+    "answer": "2000",
+    "topic_entities": "Pandaemonium",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Pandaemonium",
+        "release year",
+        "2000"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1740,
+        5,
+        1393
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 67,
+    "question": "when was the movie Hop released?",
+    "answer": "2011",
+    "topic_entities": "Hop",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Hop",
+        "release year",
+        "2011"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1726,
+        5,
+        1389
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 68,
+    "question": "what genre is House of Usher in?",
+    "answer": "Horror",
+    "topic_entities": "House",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "House",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1013,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 69,
+    "question": "describe Dutch?",
+    "answer": "john hughes",
+    "topic_entities": "Dutch",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Dutch",
+        "has tags",
+        "john hughes"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1105,
+        3,
+        1322
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 70,
+    "question": "what was the release date of the movie Gallipoli?",
+    "answer": "1981",
+    "topic_entities": "Gallipoli",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Gallipoli",
+        "release year",
+        "1981"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        140,
+        5,
+        1491
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 71,
+    "question": "what was John Lemont the director of?",
+    "answer": "Konga",
+    "topic_entities": "John Lemont",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "John Lemont",
+        "direct",
+        "Konga"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        698,
+        1,
+        699
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 72,
+    "question": "which film did Frank Hohimer write?",
+    "answer": "Thief",
+    "topic_entities": "Frank Hohimer",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Frank Hohimer",
+        "write",
+        "Thief"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2076,
+        6,
+        2077
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 73,
+    "question": "which movie did Zack Stentz write?",
+    "answer": "Thor",
+    "topic_entities": "Zack Stentz",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Zack Stentz",
+        "write",
+        "Thor"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2065,
+        6,
+        1394
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 74,
+    "question": "what was the genre of the film Unrest?",
+    "answer": "Horror",
+    "topic_entities": "Unrest",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Unrest",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1025,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 75,
+    "question": "Most, when was it released?",
+    "answer": "2003",
+    "topic_entities": "Most",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Most",
+        "release year",
+        "2003"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1755,
+        5,
+        1375
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 76,
+    "question": "what movies did Ruth Nelson star in?",
+    "answer": "Awakenings",
+    "topic_entities": "Ruth Nelson",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Ruth Nelson",
+        "act in",
+        "Awakenings"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        300,
+        0,
+        301
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 77,
+    "question": "what films was Joe Tornatore a writer on?",
+    "answer": "Grotesque",
+    "topic_entities": "Joe Tornatore",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Joe Tornatore",
+        "write",
+        "Grotesque"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2084,
+        6,
+        1063
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 78,
+    "question": "what does Derek Jarman appear in?",
+    "answer": "Blue",
+    "topic_entities": "Derek Jarman",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Derek Jarman",
+        "act in",
+        "Blue"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        326,
+        0,
+        327
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 79,
+    "question": "Miriam Makeba appears in which movies?",
+    "answer": "Sarafina!",
+    "topic_entities": "Miriam Makeba",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Miriam Makeba",
+        "act in",
+        "Sarafina!"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        320,
+        0,
+        321
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 80,
+    "question": "what was the genre of the film Kiki?",
+    "answer": "Comedy",
+    "topic_entities": "Kiki",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Kiki",
+        "has genre",
+        "Comedy"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1016,
+        2,
+        806
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 81,
+    "question": "Jessica Hausner was the director of which films?",
+    "answer": "Lourdes",
+    "topic_entities": "Jessica Hausner",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Jessica Hausner",
+        "direct",
+        "Lourdes"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        713,
+        1,
+        714
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 82,
+    "question": "what genre of film is Margaret?",
+    "answer": "Drama",
+    "topic_entities": "Margaret",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Margaret",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        910,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 83,
+    "question": "what was the release year of Masterminds?",
+    "answer": "1997",
+    "topic_entities": "Masterminds",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Masterminds",
+        "release year",
+        "1997"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1722,
+        5,
+        1456
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 84,
+    "question": "which movies was Phillip Schneider a writer on?",
+    "answer": "Swimfan",
+    "topic_entities": "Phillip Schneider",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Phillip Schneider",
+        "write",
+        "Swimfan"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2087,
+        6,
+        1729
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 85,
+    "question": "what language is the movie Wolfsburg in?",
+    "answer": "German",
+    "topic_entities": "Wolfsburg",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Wolfsburg",
+        "in language",
+        "German"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        266,
+        4,
+        1092
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 86,
+    "question": "what was the release year of Paycheck?",
+    "answer": "2003",
+    "topic_entities": "Paycheck",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Paycheck",
+        "release year",
+        "2003"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1737,
+        5,
+        1375
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 87,
+    "question": "what is the language spoken in the film Carmen?",
+    "answer": "Spanish",
+    "topic_entities": "Carmen",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Carmen",
+        "in language",
+        "Spanish"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        240,
+        4,
+        1106
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 88,
+    "question": "what kind of film is Hustle?",
+    "answer": "Crime",
+    "topic_entities": "Hustle",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Hustle",
+        "has genre",
+        "Crime"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1005,
+        2,
+        809
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 89,
+    "question": "what was the release year of Nokas?",
+    "answer": "2010",
+    "topic_entities": "Nokas",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Nokas",
+        "release year",
+        "2010"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1730,
+        5,
+        1386
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 90,
+    "question": "what was the release year of the film Leif?",
+    "answer": "1987",
+    "topic_entities": "Leif",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Leif",
+        "release year",
+        "1987"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        964,
+        5,
+        1391
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 91,
+    "question": "what movies did David Arkin act in?",
+    "answer": "Nashville",
+    "topic_entities": "David Arkin",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "David Arkin",
+        "act in",
+        "Nashville"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        298,
+        0,
+        299
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 92,
+    "question": "what is the genre for Dune?",
+    "answer": "Action",
+    "topic_entities": "Dune",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Dune",
+        "has genre",
+        "Action"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1022,
+        2,
+        796
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 93,
+    "question": "what was the release year of the movie 31 North 62 East?",
+    "answer": "2009",
+    "topic_entities": "North",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "North",
+        "release year",
+        "2009"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1749,
+        5,
+        1388
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 94,
+    "question": "when was the film Watercolors released?",
+    "answer": "2008",
+    "topic_entities": "Watercolors",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Watercolors",
+        "release year",
+        "2008"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        309,
+        5,
+        1436
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 95,
+    "question": "what does John Longden appear in?",
+    "answer": "Blackmail",
+    "topic_entities": "John Longden",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "John Longden",
+        "act in",
+        "Blackmail"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        318,
+        0,
+        319
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 96,
+    "question": "what was the release year of the film Moonlighting?",
+    "answer": "1982",
+    "topic_entities": "Moonlighting",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Moonlighting",
+        "release year",
+        "1982"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1286,
+        5,
+        1604
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 97,
+    "question": "what is the primary language in the film Splice?",
+    "answer": "French",
+    "topic_entities": "Splice",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Splice",
+        "in language",
+        "French"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1178,
+        4,
+        1094
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 98,
+    "question": "what movies was Richard Stratton the writer of?",
+    "answer": "Whiteboyz",
+    "topic_entities": "Richard Stratton",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Richard Stratton",
+        "write",
+        "Whiteboyz"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2062,
+        6,
+        1535
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 99,
+    "question": "what is the language spoken in Camino?",
+    "answer": "Spanish",
+    "topic_entities": "Camino",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Camino",
+        "in language",
+        "Spanish"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1173,
+        4,
+        1106
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 100,
+    "question": "what year was Tribes released?",
+    "answer": "1970",
+    "topic_entities": "Tribes",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Tribes",
+        "release year",
+        "1970"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1732,
+        5,
+        1475
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 101,
+    "question": "when was Grindhouse released?",
+    "answer": "2007",
+    "topic_entities": "Grindhouse",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Grindhouse",
+        "release year",
+        "2007"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1725,
+        5,
+        1410
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 102,
+    "question": "Quills, when was it released?",
+    "answer": "2000",
+    "topic_entities": "Quills",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Quills",
+        "release year",
+        "2000"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        917,
+        5,
+        1393
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 103,
+    "question": "what was the release date of the film Control?",
+    "answer": "2007",
+    "topic_entities": "Control",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Control",
+        "release year",
+        "2007"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1734,
+        5,
+        1410
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 104,
+    "question": "what is the genre of the film Parasite?",
+    "answer": "Horror",
+    "topic_entities": "Parasite",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Parasite",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1011,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 105,
+    "question": "what films was Simon Burke a writer on?",
+    "answer": "Persuasion",
+    "topic_entities": "Simon Burke",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Simon Burke",
+        "write",
+        "Persuasion"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2068,
+        6,
+        2069
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 106,
+    "question": "what films did Shaun Dooley act in?",
+    "answer": "Offender",
+    "topic_entities": "Shaun Dooley",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Shaun Dooley",
+        "act in",
+        "Offender"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        322,
+        0,
+        323
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 107,
+    "question": "what genre does Onibaba fall under?",
+    "answer": "Horror",
+    "topic_entities": "Onibaba",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Onibaba",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        19,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 108,
+    "question": "what year was Quarantine released?",
+    "answer": "2008",
+    "topic_entities": "Quarantine",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Quarantine",
+        "release year",
+        "2008"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1751,
+        5,
+        1436
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 109,
+    "question": "what does Adrian Lester act in?",
+    "answer": "Dust",
+    "topic_entities": "Adrian Lester",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Adrian Lester",
+        "act in",
+        "Dust"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        294,
+        0,
+        295
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 110,
+    "question": "when was the film Paddington released?",
+    "answer": "2014",
+    "topic_entities": "Paddington",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Paddington",
+        "release year",
+        "2014"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1733,
+        5,
+        1396
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 111,
+    "question": "which movie did Jeremy Seifert write?",
+    "answer": "Dive!",
+    "topic_entities": "Jeremy Seifert",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Jeremy Seifert",
+        "write",
+        "Dive!"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2082,
+        6,
+        2083
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 112,
+    "question": "what films did Lynn Shelton star in?",
+    "answer": "Humpday",
+    "topic_entities": "Lynn Shelton",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Lynn Shelton",
+        "act in",
+        "Humpday"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        314,
+        0,
+        315
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 113,
+    "question": "what was the genre of Abandoned?",
+    "answer": "Thriller",
+    "topic_entities": "Abandoned",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Abandoned",
+        "has genre",
+        "Thriller"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1010,
+        2,
+        823
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 114,
+    "question": "what film genre is Nightmare?",
+    "answer": "Horror",
+    "topic_entities": "Nightmare",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Nightmare",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1031,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 115,
+    "question": "what was the release date of the movie Floundering?",
+    "answer": "1994",
+    "topic_entities": "Floundering",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Floundering",
+        "release year",
+        "1994"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1724,
+        5,
+        1417
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 116,
+    "question": "when was the film Nuts released?",
+    "answer": "1987",
+    "topic_entities": "Nuts",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Nuts",
+        "release year",
+        "1987"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        848,
+        5,
+        1391
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 117,
+    "question": "what sort of film is Wizards?",
+    "answer": "Fantasy",
+    "topic_entities": "Wizards",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Wizards",
+        "has genre",
+        "Fantasy"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1014,
+        2,
+        805
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 118,
+    "question": "Germinal, when was it released?",
+    "answer": "1993",
+    "topic_entities": "Germinal",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Germinal",
+        "release year",
+        "1993"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1736,
+        5,
+        1461
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 119,
+    "question": "what topics is Aliens in the Attic about?",
+    "answer": "aliens",
+    "topic_entities": "Aliens",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Aliens",
+        "has tags",
+        "aliens"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        256,
+        3,
+        1330
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 120,
+    "question": "when was Dandelion released?",
+    "answer": "2004",
+    "topic_entities": "Dandelion",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Dandelion",
+        "release year",
+        "2004"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1743,
+        5,
+        1421
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 121,
+    "question": "what was the release year of the film Unconquered?",
+    "answer": "1947",
+    "topic_entities": "Unconquered",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Unconquered",
+        "release year",
+        "1947"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1728,
+        5,
+        1441
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 122,
+    "question": "what did Lois Weber direct?",
+    "answer": "Hypocrites",
+    "topic_entities": "Lois Weber",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Lois Weber",
+        "direct",
+        "Hypocrites"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        694,
+        1,
+        695
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 123,
+    "question": "what was the release year of the movie Demoted?",
+    "answer": "2011",
+    "topic_entities": "Demoted",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Demoted",
+        "release year",
+        "2011"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1721,
+        5,
+        1389
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 124,
+    "question": "what does Marta Etura appear in?",
+    "answer": "Eva",
+    "topic_entities": "Marta Etura",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Marta Etura",
+        "act in",
+        "Eva"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        328,
+        0,
+        329
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 125,
+    "question": "what films did Ted Knight act in?",
+    "answer": "Caddyshack",
+    "topic_entities": "Ted Knight",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Ted Knight",
+        "act in",
+        "Caddyshack"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        310,
+        0,
+        311
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 126,
+    "question": "what was the release year of the film Vabank?",
+    "answer": "1981",
+    "topic_entities": "Vabank",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Vabank",
+        "release year",
+        "1981"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1745,
+        5,
+        1491
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 127,
+    "question": "what was the release year of the movie Thunderheart?",
+    "answer": "1992",
+    "topic_entities": "Thunderheart",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Thunderheart",
+        "release year",
+        "1992"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1735,
+        5,
+        1408
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 128,
+    "question": "what was John Gulager the director of?",
+    "answer": "Feast",
+    "topic_entities": "John Gulager",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "John Gulager",
+        "direct",
+        "Feast"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        696,
+        1,
+        697
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 129,
+    "question": "which words describe film Romance?",
+    "answer": "unsimulated sex",
+    "topic_entities": "Romance",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Romance",
+        "has tags",
+        "unsimulated sex"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        960,
+        3,
+        1321
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 130,
+    "question": "what was the release date of the movie Sphinx?",
+    "answer": "1981",
+    "topic_entities": "Sphinx",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Sphinx",
+        "release year",
+        "1981"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        921,
+        5,
+        1491
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 131,
+    "question": "when was Repossessed released?",
+    "answer": "1990",
+    "topic_entities": "Repossessed",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Repossessed",
+        "release year",
+        "1990"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1738,
+        5,
+        1382
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 132,
+    "question": "what is the genre for the movie Mutants?",
+    "answer": "Horror",
+    "topic_entities": "Mutants",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Mutants",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        380,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 133,
+    "question": "what is the genre of Hysteria?",
+    "answer": "Comedy",
+    "topic_entities": "Hysteria",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Hysteria",
+        "has genre",
+        "Comedy"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1006,
+        2,
+        806
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 134,
+    "question": "what is the genre of the film Trishna?",
+    "answer": "Drama",
+    "topic_entities": "Trishna",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Trishna",
+        "has genre",
+        "Drama"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1029,
+        2,
+        794
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 135,
+    "question": "when was Amistad released?",
+    "answer": "1997",
+    "topic_entities": "Amistad",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Amistad",
+        "release year",
+        "1997"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1742,
+        5,
+        1456
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 136,
+    "question": "what was the release year of Nomads?",
+    "answer": "1986",
+    "topic_entities": "Nomads",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Nomads",
+        "release year",
+        "1986"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1165,
+        5,
+        1404
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 137,
+    "question": "when was the movie Prancer released?",
+    "answer": "1989",
+    "topic_entities": "Prancer",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Prancer",
+        "release year",
+        "1989"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1758,
+        5,
+        1371
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 138,
+    "question": "what was the release date of the film Coldblooded?",
+    "answer": "1995",
+    "topic_entities": "Coldblooded",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Coldblooded",
+        "release year",
+        "1995"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1757,
+        5,
+        1400
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 139,
+    "question": "what film genre is Evidence?",
+    "answer": "Thriller",
+    "topic_entities": "Evidence",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Evidence",
+        "has genre",
+        "Thriller"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1015,
+        2,
+        823
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 140,
+    "question": "what genre of movie is Fletch?",
+    "answer": "Comedy",
+    "topic_entities": "Fletch",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Fletch",
+        "has genre",
+        "Comedy"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1008,
+        2,
+        806
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 141,
+    "question": "what was the release date of Gloria?",
+    "answer": "1999",
+    "topic_entities": "Gloria",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Gloria",
+        "release year",
+        "1999"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        79,
+        5,
+        1444
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 142,
+    "question": "what is the language spoken in Insomnia?",
+    "answer": "Norwegian",
+    "topic_entities": "Insomnia",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Insomnia",
+        "in language",
+        "Norwegian"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1179,
+        4,
+        1154
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 143,
+    "question": "what films was Derek Lee a writer on?",
+    "answer": "Afflicted",
+    "topic_entities": "Derek Lee",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Derek Lee",
+        "write",
+        "Afflicted"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        359,
+        6,
+        360
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 144,
+    "question": "what was Reinhard Klooss the director of?",
+    "answer": "Tarzan",
+    "topic_entities": "Reinhard Klooss",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Reinhard Klooss",
+        "direct",
+        "Tarzan"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        684,
+        1,
+        685
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 145,
+    "question": "what did Andrew Currie direct?",
+    "answer": "Barricade",
+    "topic_entities": "Andrew Currie",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Andrew Currie",
+        "direct",
+        "Fido"
+      ],
+      [
+        "Andrew Currie",
+        "direct",
+        "Barricade"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        702,
+        1,
+        703
+      ],
+      [
+        702,
+        1,
+        704
+      ]
+    ],
+    "retrieved_triples_count": 2
+  },
+  {
+    "id": 146,
+    "question": "which topics is movie Ivanhoe about?",
+    "answer": "adaptation",
+    "topic_entities": "Ivanhoe",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Ivanhoe",
+        "has tags",
+        "adaptation"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        773,
+        3,
+        1331
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 147,
+    "question": "what movies did Kyle Clare star in?",
+    "answer": "Watercolors",
+    "topic_entities": "Kyle Clare",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Kyle Clare",
+        "act in",
+        "Watercolors"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        308,
+        0,
+        309
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 148,
+    "question": "what year was the movie Swimfan released?",
+    "answer": "2002",
+    "topic_entities": "Swimfan",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Swimfan",
+        "release year",
+        "2002"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1729,
+        5,
+        1380
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 149,
+    "question": "what is the language spoken in the film Pusher?",
+    "answer": "English",
+    "topic_entities": "Pusher",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Pusher",
+        "in language",
+        "English"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        626,
+        4,
+        1096
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 150,
+    "question": "what movies did Melanie Mayron star in?",
+    "answer": "Missing",
+    "topic_entities": "Melanie Mayron",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Melanie Mayron",
+        "act in",
+        "Missing"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        312,
+        0,
+        313
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 151,
+    "question": "Kimberly Peirce directed which films?",
+    "answer": "Stop-Loss",
+    "topic_entities": "Kimberly Peirce",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Kimberly Peirce",
+        "direct",
+        "Stop-Loss"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        686,
+        1,
+        687
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 152,
+    "question": "which movies did Christopher Scott Cherot direct?",
+    "answer": "G",
+    "topic_entities": "Christopher Scott Cherot",
+    "topic_relations": "direct",
+    "retrieved_triples": [
+      [
+        "Christopher Scott Cherot",
+        "direct",
+        "G"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        707,
+        1,
+        708
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 153,
+    "question": "what was the genre of the film Eddie?",
+    "answer": "Comedy",
+    "topic_entities": "Eddie",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Eddie",
+        "has genre",
+        "Comedy"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1026,
+        2,
+        806
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 154,
+    "question": "what is the genre of the film Accident?",
+    "answer": "Thriller",
+    "topic_entities": "Accident",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Accident",
+        "has genre",
+        "Thriller"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1012,
+        2,
+        823
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 155,
+    "question": "what type of film is Bug?",
+    "answer": "Horror",
+    "topic_entities": "Bug",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Bug",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1019,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 156,
+    "question": "which words describe Alps?",
+    "answer": "greek",
+    "topic_entities": "Alps",
+    "topic_relations": "has tags",
+    "retrieved_triples": [
+      [
+        "Alps",
+        "has tags",
+        "greek"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1326,
+        3,
+        1327
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 157,
+    "question": "what film did Madhur Bhandarkar write?",
+    "answer": "Heroine",
+    "topic_entities": "Madhur Bhandarkar",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Madhur Bhandarkar",
+        "write",
+        "Heroine"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2074,
+        6,
+        2075
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 158,
+    "question": "what kind of movie is Ouija?",
+    "answer": "Horror",
+    "topic_entities": "Ouija",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Ouija",
+        "has genre",
+        "Horror"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1021,
+        2,
+        792
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 159,
+    "question": "what language is Evilenko in?",
+    "answer": "English",
+    "topic_entities": "Evilenko",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Evilenko",
+        "in language",
+        "English"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1172,
+        4,
+        1096
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 160,
+    "question": "what year was the movie Martyrs released?",
+    "answer": "2008",
+    "topic_entities": "Martyrs",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Martyrs",
+        "release year",
+        "2008"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1741,
+        5,
+        1436
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 161,
+    "question": "which movies was Cecilia Miniucchi a writer on?",
+    "answer": "Expired",
+    "topic_entities": "Cecilia Miniucchi",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Cecilia Miniucchi",
+        "write",
+        "Expired"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2063,
+        6,
+        2064
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 162,
+    "question": "what movies did Hiroshi Abe star in?",
+    "answer": "Chocolate",
+    "topic_entities": "Hiroshi Abe",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Hiroshi Abe",
+        "act in",
+        "Chocolate"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        316,
+        0,
+        317
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 163,
+    "question": "what was the release date of Pageant?",
+    "answer": "2008",
+    "topic_entities": "Pageant",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Pageant",
+        "release year",
+        "2008"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1756,
+        5,
+        1436
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 164,
+    "question": "what movies did Mark Chao star in?",
+    "answer": "Monga",
+    "topic_entities": "Mark Chao",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "Mark Chao",
+        "act in",
+        "Monga"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        296,
+        0,
+        297
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 165,
+    "question": "what is the genre of the film Chloe?",
+    "answer": "Thriller",
+    "topic_entities": "Chloe",
+    "topic_relations": "has genre",
+    "retrieved_triples": [
+      [
+        "Chloe",
+        "has genre",
+        "Thriller"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1030,
+        2,
+        823
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 166,
+    "question": "what was the release date of the movie Barefoot?",
+    "answer": "2014",
+    "topic_entities": "Barefoot",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Barefoot",
+        "release year",
+        "2014"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1059,
+        5,
+        1396
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 167,
+    "question": "David Kelly appears in which movies?",
+    "answer": "Stardust",
+    "topic_entities": "David Kelly",
+    "topic_relations": "act in",
+    "retrieved_triples": [
+      [
+        "David Kelly",
+        "act in",
+        "Stardust"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        302,
+        0,
+        303
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 168,
+    "question": "which movies was Matt Bondurant a writer on?",
+    "answer": "Lawless",
+    "topic_entities": "Matt Bondurant",
+    "topic_relations": "write",
+    "retrieved_triples": [
+      [
+        "Matt Bondurant",
+        "write",
+        "Lawless"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        2085,
+        6,
+        2086
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 169,
+    "question": "what is the language spoken in the film Leprechaun?",
+    "answer": "English",
+    "topic_entities": "Leprechaun",
+    "topic_relations": "in language",
+    "retrieved_triples": [
+      [
+        "Leprechaun",
+        "in language",
+        "English"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1174,
+        4,
+        1096
+      ]
+    ],
+    "retrieved_triples_count": 1
+  },
+  {
+    "id": 170,
+    "question": "what year was the film Archangel released?",
+    "answer": "1990",
+    "topic_entities": "Archangel",
+    "topic_relations": "release year",
+    "retrieved_triples": [
+      [
+        "Archangel",
+        "release year",
+        "1990"
+      ]
+    ],
+    "retrieved_triples2id": [
+      [
+        1274,
+        5,
+        1382
+      ]
+    ],
+    "retrieved_triples_count": 1
+  }
+]
