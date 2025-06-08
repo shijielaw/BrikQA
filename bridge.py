@@ -92,7 +92,13 @@ class PretrainKGEmbedding(nn.Module):
         # Froze the pretrain embeddings
         self.ent_embeddings.requires_grad_(False)
         self.rel_embeddings.requires_grad_(False)
-        self.adapter = nn.Linear(self.pretrain_dim, self.emb_dim)
+
+        hidden_dim = self.pretrain_dim * 2
+        self.adapter = nn.Sequential(
+            nn.Linear(self.pretrain_dim, hidden_dim),
+            nn.ReLU(),
+            nn.Linear(hidden_dim, self.emb_dim)
+        )
 
     def forward(self, question_id):
         mean_ent_embs = self.ent_embeddings(question_id)

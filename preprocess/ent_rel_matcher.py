@@ -54,12 +54,16 @@ class EntRelMatcher:
         # embedding of sub-question
         question_embedding = self.plm.encode([sub_question])[0]
 
-        # similarities between sub-question and entities
-        entity_similarities = np.dot(self.entity_embeddings, question_embedding)
+        # Calculate cosine similarity between sub-question and entities
+        # Normalize vectors for cosine similarity
+        question_embedding_norm = question_embedding / np.linalg.norm(question_embedding)
+        entity_embeddings_norm = self.entity_embeddings / np.linalg.norm(self.entity_embeddings, axis=1, keepdims=True)
+        entity_similarities = np.dot(entity_embeddings_norm, question_embedding_norm)
         top_k_entities = set(np.array(self.entities)[np.argsort(entity_similarities)[-self.top_k:]])
 
-        # similarities between sub-question and relations
-        relation_similarities = np.dot(self.relation_embeddings, question_embedding)
+        # Calculate cosine similarity between sub-question and relations
+        relation_embeddings_norm = self.relation_embeddings / np.linalg.norm(self.relation_embeddings, axis=1, keepdims=True)
+        relation_similarities = np.dot(relation_embeddings_norm, question_embedding_norm)
         top_k_relations = set(np.array(self.relations)[np.argsort(relation_similarities)[-self.top_k:]])
 
         # exact match using LLMs
