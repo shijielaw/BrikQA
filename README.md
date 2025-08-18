@@ -1,6 +1,6 @@
 # BriKQA: Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering
 
-This is our PyTorch implementation for BriKQA.
+This is our PyTorch implementation for 'Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering' accepted in CIKM 2025.
 
 
 
