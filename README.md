@@ -52,3 +52,23 @@ python main.py --data MovieQA --num_epoches 30 --lora_rank 64 --batch_size 8 --t
 
 Data Preprocess is in ./preprocess, please read ./preprocess/README.md to continue.
 
+
+
+
+
+## Citation
+
+```
+@inproceedings{luo2025brikqa,
+  title={Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering},
+  author={Luo, Shijie and Lu, Xinyuan and Zhao, Qinpei and Rao, Weixiong},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25')},
+  publisher={Association for Computing Machinery},
+  address={Seoul, Republic of Korea},
+  pages={5006--5010},
+  year={2025}
+}
+```
+
+
+
