@@ -62,7 +62,7 @@ Data Preprocess is in ./preprocess, please read ./preprocess/README.md to contin
 @inproceedings{luo2025brikqa,
   title={Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering},
   author={Luo, Shijie and Lu, Xinyuan and Zhao, Qinpei and Rao, Weixiong},
-  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25')},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)},
   publisher={Association for Computing Machinery},
   address={Seoul, Republic of Korea},
   pages={5006--5010},
